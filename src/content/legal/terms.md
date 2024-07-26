@@ -1,6 +1,6 @@
 ---
 title: "Terms of Use"
-date: "03/07/2024"
+date: "03-07-2024"
 ---
 
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the [Your Website URL] website (the "Service") operated by [Your Company Name] ("us", "we", or "our").
