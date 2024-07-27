@@ -90,10 +90,10 @@ const stack = [
             Desarrollador de Software 
           </h2>
           <div id="ctaButtons" class='animated flex flex-wrap gap-4 justify-center mt-5'>
-            <a href='/blog' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
+            <a href='https://drive.google.com/file/d/1TDTKQFeRJvtmDALqRZv7TJp0jklfSAUR/view?usp=sharing' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
               Descargar CV
             </a>
-            <a href='/work' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
+            <a href='/projects' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
               Ver Proyectos
             </a>
           </div>
@@ -144,21 +144,21 @@ const stack = [
 
       <!-- Tech Stack Section -->
       <section class="animate">
-        <div class="space-y-4">
-          <p class="font-semibold text-black dark:text-white">
-            Sitio web desarrollado con
-          </p>
-          <div class="flex flex-wrap items-center gap-2 mt-5">
-            {stack.map(item => (
-              <StackCard 
-                text={item.text}
-                icon={item.icon}
-                href={item.href}
-              />
-            ))}
-          </div>
-          <div>
-            Performing reactivity and statefulness, special guest
+        <div>
+            <div class="space-y-4">
+              <p class="font-semibold text-black dark:text-white">
+                Sitio web desarrollado con
+              </p>
+              <div class="flex flex-wrap items-center gap-2 mt-5">
+                {stack.map(item => (
+                  <StackCard 
+                    text={item.text}
+                    icon={item.icon}
+                    href={item.href}
+                  />
+                ))}
+              </div>
+            Para una óptima performance y rendimiento se utilizó
             <a href="https://www.solidjs.com/" target="_blank" class="w-fit group underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
               <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
                 SolidJS
