@@ -9,14 +9,14 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  TITLE: "Trabajo",
+  DESCRIPTION: "Lugares donde trabajé.",
 }
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  TITLE: "Educación",
+  DESCRIPTION: "Certificados y experiencias laborales.",
 }
 
 // Projects Page 
@@ -57,7 +57,7 @@ export const SOCIALS: Socials = [
     NAME: "Email",
     ICON: "email", 
     TEXT: "mateogariboglio@hotmail.com",
-    HREF: "mateogariboglio@hotmail.com",
+    HREF: "mailto:mateogariboglio@hotmail.com",
   },
   { 
     NAME: "Github",

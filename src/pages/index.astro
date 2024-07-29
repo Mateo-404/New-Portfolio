@@ -90,8 +90,8 @@ const stack = [
             Desarrollador de Software 
           </h2>
           <div id="ctaButtons" class='animated flex flex-wrap gap-4 justify-center mt-5'>
-            <a href='https://drive.google.com/file/d/1TDTKQFeRJvtmDALqRZv7TJp0jklfSAUR/view?usp=sharing' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
-              Descargar CV
+            <a target="_blank" href='https://drive.google.com/file/d/1TDTKQFeRJvtmDALqRZv7TJp0jklfSAUR/view?usp=sharing' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
+              Visualizar CV
             </a>
             <a href='/projects' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
               Ver Proyectos
@@ -108,72 +108,23 @@ const stack = [
       <!-- About Section -->
       <section class="animate">
         <article>
-          <p>👋 Soy <b>Desarrollador de Software</b> y estudiante de <b><i></i><a href="http://ww8.frra.utn.edu.ar/sitio/" >UTN FRRa</a></i>.</p>
+          <p>👋 Soy <b>Desarrollador de Software</b> y estudiante de <b>Tecnicatura Superior en Programación </b> en <a href="http://ww8.frra.utn.edu.ar/sitio/" >UTN FRRa</a></i>.</p>
           <p>🤩 Me apasiona abordar proyectos complejos que impliquen una alta autoexigencia y resolver problemas de manera innovadora. Mi verdadera pasión es desarrollar un backend escalable y seguro, con un enfoque en la arquitectura de software y la optimización del rendimiento.</p>
-          <p>📚 Durante mi carrera universitaria</p>
+          <p><b>📚 Durante mi carrera universitaria </b></p>
           <p>Realicé multiples proyectos, algunos de los cuales involucraron el desarrollo de aplicaciones web y otros que consistieron en la creación de algoritmos y estructuras de datos para resolver problemas complejos. Me gusta pensar fuera de la caja y resolver problemas de manera creativa.</p>
-          <p>💻 Actualmente</p>
+          <p><b>💻 En la actualidad </b></p>
           <p>En este momento estoy en busca de oportunidades laborales como <b><i>Desarrollador de Software</i></b>. Me apasiona aprender nuevas tecnologías y metodologías de desarrollo de software, y estar siempre al día con las últimas tendencias del mercado.</p>
           <p>📚 Estoy dispuesto a aprender y crecer en mi carrera profesional, y estoy seguro de que puedo aportar valor a cualquier equipo de desarrollo de software.</p>
           <p>💪 Si estás interesado en trabajar juntos, no dudes en ponerte en contacto conmigo.</p>
         </article>
       </section>
-
-      <!-- Blog Preview Section -->
-      <section class="animate">
-        <div class="space-y-4">
-          <div class="flex justify-between">
-            <p class="font-semibold text-black dark:text-white">
-              Recent posts
-            </p>
-            <a href="/blog" class="w-fit col-span-3 group flex gap-1 items-center underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
-              <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
-                All posts
-              </span>
-            </a>
-          </div>
-          <ul class="space-y-4">
-            {posts.map((post) => (
-              <li>
-                <ArrowCard entry={post} />
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
-
-      <!-- Tech Stack Section -->
-      <section class="animate">
-        <div>
-            <div class="space-y-4">
-              <p class="font-semibold text-black dark:text-white">
-                Sitio web desarrollado con
-              </p>
-              <div class="flex flex-wrap items-center gap-2 mt-5">
-                {stack.map(item => (
-                  <StackCard 
-                    text={item.text}
-                    icon={item.icon}
-                    href={item.href}
-                  />
-                ))}
-              </div>
-            Para una óptima performance y rendimiento se utilizó
-            <a href="https://www.solidjs.com/" target="_blank" class="w-fit group underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
-              <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
-                SolidJS
-              </span>
-            </a>
-          </div>
-        </div>
-      </section>
-
+      
       <!-- Project Preview Section -->
       <section class="animate">
         <div class="space-y-4">
           <div class="flex justify-between">
             <h3 class="font-semibold text-black dark:text-white">
-              Proyectos Recientes
+              Proyectos Recientes 🚀
             </h3>
             <a href="/projects" class="w-fit col-span-3 group flex gap-1 items-center underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
               <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
@@ -190,6 +141,29 @@ const stack = [
           </ul>
         </div>
       </section>
+      <!-- Blog Preview Section -->
+      <section class="animate">
+        <div class="space-y-4 mt-5">
+          <div class="flex justify-between">
+            <p class="font-semibold text-black dark:text-white">
+              Certificados recientes 🎓
+            </p>
+            <a href="/blog" class="w-fit col-span-3 group flex gap-1 items-center underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
+              <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
+                Ver todo
+              </span>
+            </a>
+          </div>
+          <ul class="space-y-4">
+            {posts.map((post) => (
+              <li>
+                <ArrowCard entry={post} />
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
 
       <!-- Contact Section -->
       <section class="animate">
@@ -215,6 +189,32 @@ const stack = [
                 </a>
               </div>
             ))}
+        </div>
+      </section>
+
+      <!-- Tech Stack Section -->
+      <section class="animate">
+        <div>
+            <div class="space-y-4">
+              <p class="font-semibold text-black dark:text-white mt-7">
+                Sitio web desarrollado con
+              </p>
+              <div class="flex flex-wrap items-center gap-2 mt-5">
+                {stack.map(item => (
+                  <StackCard 
+                    text={item.text}
+                    icon={item.icon}
+                    href={item.href}
+                  />
+                ))}
+              </div>
+            <p class="mt-3">Para una óptima performance y rendimiento se utilizó</p>
+            <a href="https://www.solidjs.com/" target="_blank" class="w-fit group underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
+              <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
+                SolidJS
+              </span>
+            </a>
+          </div>
         </div>
       </section>
     </div>
