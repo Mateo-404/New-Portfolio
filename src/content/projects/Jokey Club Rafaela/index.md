@@ -8,8 +8,8 @@ tags:
 - Css
 - Javascript
 - Boostrap
-demoUrl: https://mateo-404.github.io/TP-LAB-III/
-repoUrl: https://github.com/Mateo-404/TP-LAB-III
+demoUrl: https://mateo-404.github.io/Jockey-Club-Rafaela/
+repoUrl: https://github.com/Mateo-404/Jockey-Club-Rafaela
 ---
 
 Este proyecto es parte del Final de la asignatura Laboratorio de Computación III de la Tecnicatura Superior en Programación. El objetivo es desarrollar un sitio web completo utilizando HTML5, CSS3, JavaScript y Bootstrap 5. El sitio incluye varias secciones como Home, Noticias, Asociarse, Fotos y Contacto. Además, se implementan validaciones de formularios con JavaScript, consumo de APIs y efectos de animación en diferentes secciones del sitio.
