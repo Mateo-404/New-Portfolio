@@ -54,12 +54,6 @@ export const LINKS: Links = [
 // Socials
 export const SOCIALS: Socials = [
   { 
-    NAME: "Email",
-    ICON: "email", 
-    TEXT: "mateogariboglio@gmail.com",
-    HREF: "mailto:mateogariboglio@gmail.com",
-  },
-  { 
     NAME: "Github",
     ICON: "github",
     TEXT: "Mateo-404",
