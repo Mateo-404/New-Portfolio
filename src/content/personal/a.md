@@ -10,7 +10,7 @@ tags:
 
 # Soy Mateo Gariboglio
 
-Nací y crecí en **Santa Clara de Buena Vista**, un pueblo pequeño donde pasé mis primeros 18 años. Cuando decidí estudiar programación, empezó un camino que marcó profundamente mi carácter.
+Nací en Santa Fe y, a los 6 años, me mudé a **Santa Clara de Buena Vista**, un pueblo pequeño donde viví hasta los 18. En ese lugar crecí, formé amistades y aprendí el valor de la comunidad. Cuando decidí estudiar programación, comenzó un camino que marcó profundamente mi carácter y mi forma de ver el mundo.
 
 Durante la tecnicatura viajé todos los días desde **Humboldt a Rafaela**. El cursado era de **19:00 a 23:30**, así que siempre volvía de noche. Descubrí que había colectivo de ida, pero no de vuelta; así que muchos viajes fueron en auto, manejando a medianoche, coordinando con compañeros o recurriendo a quien pudiera acercarme. Hubo días con niebla densa en los que no se veía más que unos metros adelante, y aun así había que llegar igual.  
 Detrás del título hay muchas rutas, mates, lluvia, y más esfuerzo del que suele verse.
