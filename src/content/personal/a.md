@@ -1,5 +1,5 @@
 ---
-title: "Soy Mateo Gariboglio — /personal"
+title: "¿Quién soy?"
 summary: "Una historia de independencia, constancia y aprendizaje continuo."
 date: "2025-11-28"
 tags:
@@ -8,7 +8,7 @@ tags:
   - identidad
 ---
 
-# Soy Mateo Gariboglio
+# Soy Mateo Gariboglio 
 
 Nací en Santa Fe y, a los 6 años, me mudé a **Santa Clara de Buena Vista**, un pueblo pequeño donde viví hasta los 18. En ese lugar crecí, formé amistades y aprendí el valor de la comunidad. Cuando decidí estudiar programación, comenzó un camino que marcó profundamente mi carácter y mi forma de ver el mundo.
 
