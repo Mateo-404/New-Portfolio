@@ -31,11 +31,11 @@ function changeTheme() {
 function preloadTheme() {
   const theme = (() => {
     const userTheme = localStorage.theme
-
     if (userTheme === "light" || userTheme === "dark") {
       return userTheme
     } else {
-      return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
+      // Forzar tema oscuro por defecto si el usuario no eligió uno
+      return "dark"
     }
   })()
 

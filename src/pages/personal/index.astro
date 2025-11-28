@@ -1,0 +1,31 @@
+---
+import { getEntryBySlug } from 'astro:content';
+import PageLayout from '@layouts/PageLayout.astro'
+import TopLayout from '@layouts/TopLayout.astro'
+import BottomLayout from '@layouts/BottomLayout.astro'
+
+export const prerender = true;
+
+// Cargar la entrada markdown src/content/personal/a.md
+const entry = await getEntryBySlug('personal', 'a');
+if (!entry) throw new Error('Entrada "personal/a" no encontrada.');
+
+const { Content } = await entry.render();
+const title = entry.data?.title ?? 'Personal';
+const description = entry.data?.summary ?? '';
+const date = entry.data?.date ? new Date(entry.data.date).toLocaleDateString() : '';
+---
+
+<PageLayout title={title} description={description}>
+    <TopLayout>
+        <div class="animate page-heading">{title}</div>
+        {date && <p class="meta mt-2">{date}</p>}
+    </TopLayout>
+    <BottomLayout>
+        <article>
+            <section class="prose dark:prose-invert">
+                <Content />
+            </section>
+        </article>
+    </BottomLayout>
+</PageLayout>

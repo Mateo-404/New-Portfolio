@@ -15,9 +15,11 @@ import { SITE } from "@consts"
     <BaseHead title={`${title} | ${SITE.TITLE}`} description={description} />
   </head>
   <body>
+    <!-- Skip link for accessibility -->
+    <a href="#main" class="skip-link sr-only focus:not-sr-only">Saltar al contenido</a>
     <Header />
     <Drawer />
-    <main>
+    <main id="main">
       <slot />
     </main>
     <Footer />
