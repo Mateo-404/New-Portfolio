@@ -7,13 +7,14 @@ tags:
   - about
   - identidad
 ---
+### Soy
+# Mateo Gariboglio 🙋🏻
 
-# Soy Mateo Gariboglio 
+Nací en Santa Fe y, a los 6 años, me mudé a **[Santa Clara de Buena Vista](https://www.google.com/maps/place/Santa+Clara+de+Buena+Vista,+Santa+Fe)**, un pueblo pequeño donde viví hasta los 18. En ese lugar crecí, formé amistades y aprendí el valor de la comunidad. Cuando decidí estudiar programación, comenzó un camino que marcó profundamente mi carácter y mi forma de ver el mundo.
 
-Nací en Santa Fe y, a los 6 años, me mudé a **Santa Clara de Buena Vista**, un pueblo pequeño donde viví hasta los 18. En ese lugar crecí, formé amistades y aprendí el valor de la comunidad. Cuando decidí estudiar programación, comenzó un camino que marcó profundamente mi carácter y mi forma de ver el mundo.
+Durante la tecnicatura viajé todos los días desde **[Humboldt](https://www.google.com/maps/place/Humboldt,+Santa+Fe)** a **[Rafaela](https://www.google.com/maps/place/Rafaela,+Santa+Fe)**. El cursado era de **19:00 a 23:30**, así que siempre volvía de noche. Descubrí que había colectivo de ida, pero no de vuelta; así que muchos viajes fueron en auto, manejando a medianoche, coordinando con compañeros o recurriendo a quien pudiera acercarme. Hubo días con niebla densa en los que no se veía más que unos metros adelante, y aun así había que llegar igual.  
 
-Durante la tecnicatura viajé todos los días desde **Humboldt a Rafaela**. El cursado era de **19:00 a 23:30**, así que siempre volvía de noche. Descubrí que había colectivo de ida, pero no de vuelta; así que muchos viajes fueron en auto, manejando a medianoche, coordinando con compañeros o recurriendo a quien pudiera acercarme. Hubo días con niebla densa en los que no se veía más que unos metros adelante, y aun así había que llegar igual.  
-Detrás del título hay muchas rutas, mates, lluvia, y más esfuerzo del que suele verse.
+Esa rutina de ruta duró medio año. Luego, me mudé a Rafaela. Al principio sentí un alivio inmediato al dejar los viajes, pero pronto tuve que afrontar un desafío distinto: la soledad. Vivir solo me enseñó a convivir conmigo mismo, a administrarme y a conocerme de verdad sin el ruido de afuera.
 
 Esos años me formaron. Me enseñaron independencia, constancia y silencio. Aprendí a estudiar en cualquier lado, a organizarme, a avanzar aun cuando estaba cansado. Y, por sobre todo, aprendí a confiar en mi criterio.
 
