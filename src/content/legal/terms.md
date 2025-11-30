@@ -1,43 +1,84 @@
 ---
-title: "Términos de Uso"
-date: "03-07-2024"
+title: "Términos de Uso del Sitio Web Personal"
+date: "11-30-2025"
 ---
 
-Por favor, lee estos Términos de Uso ("Términos", "Términos de Uso") cuidadosamente antes de usar el sitio web [URL de tu Sitio Web] (el "Servicio") operado por [Nombre de tu Empresa] ("nosotros", "nos" o "nuestro").
+# Términos de Uso – mateogariboglio.is-a.dev
 
-#### Acuerdo con los Términos
-Al acceder y utilizar el Servicio, aceptas estar sujeto a estos Términos. Si no estás de acuerdo con alguna parte de los Términos, no deberás utilizar el Servicio.
+**IMPORTANTE:** Por favor, lee estos Términos de Uso ("Términos") cuidadosamente. Al acceder o utilizar el sitio web **https://mateogariboglio.is-a.dev/** y sus subdominios (el "Sitio"), aceptas quedar legalmente vinculado por estos Términos. Si no estás de acuerdo con la totalidad de estos Términos, no debes usar el Sitio.
 
-#### Derechos de Propiedad Intelectual
-El contenido del Servicio, incluyendo textos, gráficos, logotipos, imágenes, videos y otros materiales, están protegidos por derechos de autor y otras leyes de propiedad intelectual. No puedes copiar, modificar, distribuir, vender o alquilar ninguna parte del Servicio sin nuestro consentimiento explícito por escrito.
+## 1. Naturaleza y Objetivo del Sitio
 
-#### Representaciones del Usuario
-Al usar el Servicio, declaras y garantizas que no utilizarás el Servicio para ningún propósito ilegal o no autorizado y que cumplirás con todas las leyes y regulaciones aplicables.
+El Sitio es un **espacio web de carácter estrictamente personal, informativo y de portafolio profesional** operado por Mateo Gariboglio ("Yo", "Mi" o "Mío"). Su propósito exclusivo es:
 
-#### Enlaces a Otros Sitios Web
-El Servicio puede contener enlaces a sitios web o recursos de terceros. No somos responsables por el contenido, productos o servicios disponibles en estos sitios web de terceros.
+* Presentar información personal y profesional sobre Mateo Gariboglio.
+* Mostrar credenciales, experiencia laboral, certificados y habilidades.
+* Servir como un punto de contacto profesional.
 
-#### Terminación
-Nos reservamos el derecho de suspender o cancelar tu acceso al Servicio inmediatamente, sin previo aviso o responsabilidad, por cualquier motivo, incluyendo si violas los Términos.
+El contenido no constituye asesoramiento profesional, legal o financiero de ningún tipo.
 
-#### Ley Aplicable
-Estos Términos se regirán e interpretarán de acuerdo con las leyes de Argentina, sin tener en cuenta sus disposiciones sobre conflictos de leyes.
+## 2. Propiedad Intelectual y Derechos de Autor
 
-#### Cambios a Estos Términos de Uso
-Nos reservamos el derecho de modificar o reemplazar estos Términos en cualquier momento. Si realizamos cambios importantes, te notificaremos por correo electrónico o mediante un aviso destacado en nuestro sitio web.
+### 2.1 Titularidad del Contenido
+Todos los contenidos presentados en el Sitio, incluyendo, pero no limitándose a: textos, la estructura del currículum, códigos fuente, diseño, logotipos, las credenciales, y cualquier imagen generada o poseída por Mateo Gariboglio, son **Propiedad Intelectual exclusiva de Mateo Gariboglio**, a menos que se indique expresamente lo contrario (ej. logotipos de terceros, iconos de código abierto).
 
-#### Conducta del Usuario
-Los usuarios deben usar el Servicio de manera que no interfiera con su funcionamiento adecuado y respetar los derechos de otros usuarios del Servicio y terceros.
+### 2.2 Uso Permitido
+Se te otorga una licencia limitada, no exclusiva y revocable para:
 
-#### Limitación de Responsabilidad
-En ningún caso Mateo Gariboglio, ni sus directores, empleados, socios, agentes, proveedores o afiliados, serán responsables por daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo sin limitación, pérdida de beneficios, datos, uso, buena voluntad u otros daños intangibles, resultantes de tu acceso o uso del Servicio.
+* Visualizar y leer el contenido con fines personales e informativos.
+* Compartir enlaces directos al Sitio o a secciones específicas.
+* Citar extractos breves del texto para fines no comerciales, siempre y cuando se otorgue una **atribución clara y destacada** a "Mateo Gariboglio" y se incluya un enlace al Sitio.
 
-#### Indemnización
-Aceptas indemnizar y eximir de responsabilidad a Mateo Gariboglio y a sus empleados, contratistas, agentes, directores y funcionarios, de cualquier reclamo o demanda, incluyendo honorarios razonables de abogados, realizados por terceros debido a o surgidos de tu uso del Servicio o violación de estos Términos.
+### 2.3 Usos Prohibidos
+**No está permitido**, sin mi consentimiento explícito previo y por escrito:
 
-#### Contáctanos
-Si tienes alguna pregunta sobre estos Términos, contáctanos:
+* Copiar, reproducir, republicar, vender, alquilar, modificar, distribuir o explotar el contenido con fines **comerciales** o para crear una base de datos.
+* Eliminar o alterar cualquier aviso de derechos de autor o marcas comerciales.
+* Utilizar las credenciales, certificados o información profesional de Mateo Gariboglio de forma que implique respaldo o asociación sin mi permiso expreso.
 
-- Por correo electrónico: [Tu correo de contacto]
-- Visitando esta página en nuestro sitio web: [URL de tu página de contacto]
-- Por número de teléfono: [Tu número de teléfono de contacto]
+## 3. Conducta del Usuario
+
+Al usar el Sitio, te comprometes a:
+
+* No utilizar el Sitio para ningún propósito ilegal, difamatorio, acosador o que viole los derechos de terceros.
+* No intentar obtener acceso no autorizado a ninguna parte del Sitio, servidores o redes conectadas.
+* No interferir con el funcionamiento adecuado del Sitio.
+
+## 4. Enlaces a Sitios de Terceros (Redes Sociales, etc.)
+
+El Sitio incluye enlaces a plataformas de terceros (como LinkedIn, GitHub, etc.).
+
+* **Descargo de Responsabilidad:** No soy responsable por el contenido, las políticas de privacidad o las prácticas de seguridad de ningún sitio o servicio web de terceros. El acceso a dichos enlaces se realiza **bajo tu propio riesgo**.
+* Te recomiendo revisar los términos y políticas de privacidad de cualquier sitio web de terceros que visites.
+
+## 5. Limitación de Responsabilidad (Cláusula "Tal Cual")
+
+El Sitio se proporciona **"TAL CUAL ES" y "SEGÚN DISPONIBILIDAD"**.
+
+* **No Garantía:** No garantizo, represento ni aseguro que el contenido estará permanentemente exacto, completo, fiable, ininterrumpido, oportuno o libre de errores.
+* **Ausencia de Daños:** En la máxima medida permitida por la ley aplicable, en ningún caso Mateo Gariboglio será responsable por daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo, sin limitación, pérdida de beneficios, datos, uso o buena voluntad, que resulten de:
+    1.  Tu acceso, uso o incapacidad de usar el Sitio.
+    2.  Cualquier conducta o contenido de terceros en el Sitio.
+* **Asunción de Riesgo:** Utilizas el Sitio bajo tu propio y exclusivo riesgo.
+
+## 6. Indemnización
+
+Aceptas **indemnizar, defender y eximir de responsabilidad** a Mateo Gariboglio y a sus agentes de cualquier reclamo o demanda (incluidos los honorarios razonables de abogados) que surja de o se relacione con: (a) tu uso del Sitio que viole estos Términos; o (b) tu violación de cualquier ley o los derechos de un tercero.
+
+## 7. Cambios en los Términos
+
+Me reservo el derecho de modificar o reemplazar estos Términos en cualquier momento. La versión más reciente estará siempre publicada en el Sitio e indicada por la fecha de "Última actualización". El uso continuado del Sitio después de la publicación de cualquier cambio constituye tu aceptación de esos nuevos Términos.
+
+## 8. Ley Aplicable y Jurisdicción
+
+Estos Términos se regirán e interpretarán de acuerdo con las **leyes de la República Argentina**, sin dar efecto a ningún principio de conflicto de leyes. Te sometes a la jurisdicción exclusiva de los tribunales de la Ciudad Autónoma de Buenos Aires, Argentina, para la resolución de cualquier disputa.
+
+## 9. Contacto
+
+Si tienes alguna pregunta o inquietud sobre estos Términos de Uso, por favor, contáctame en:
+
+* **Correo Electrónico:** mateogariboglio.job@gmail.com
+* **Sitio Web:** https://mateogariboglio.is-a.dev/
+
+---
+*Este documento ha sido redactado con la intención de ser lo más claro y legalmente sólido posible. Consulta a un asesor legal si necesitas incorporar este texto a un sitio web con fines comerciales complejos.*
